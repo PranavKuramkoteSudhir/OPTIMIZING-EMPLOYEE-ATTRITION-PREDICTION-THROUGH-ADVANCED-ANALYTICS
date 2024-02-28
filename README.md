@@ -10,4 +10,3 @@ Optimize Model Performance: Methodically tune hyperparameters for each model to 
 Cross-Model Comparisons: Compare the effectiveness of different modeling approaches in predicting attrition, utilizing metrics such as accuracy, precision, recall, and the F1 score. This comparison was aimed at identifying the most suitable model or models for deployment in real-world HR analytics applications.
 
 Provide Actionable Insights: Translate the analytical findings into actionable recommendations for HR practices, including targeted retention strategies, tailored employee engagement programs, and personalized career development plans for employees identified as high risk for attrition.
-![image](https://github.com/PranavKuramkoteSudhir/OPTIMIZING-EMPLOYEE-ATTRITION-PREDICTION-THROUGH-ADVANCED-ANALYTICS/assets/139109363/3c9f00fc-f1a5-446b-a0f8-9f0a5ba84316)
